@@ -1,0 +1,1 @@
+A program that displays real time information from a distance sensor connected to a Raspberry Pi Device. The program includes calculations to determine the speed at which the sensor is moving by measuring distance, and the time before/after movement
